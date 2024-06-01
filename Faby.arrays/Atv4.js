@@ -1,0 +1,2 @@
+var idades = []
+var nomes = []
